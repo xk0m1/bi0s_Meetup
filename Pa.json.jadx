@@ -1,0 +1,222 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "Pa.json"
+  ],
+  "treeExpansions": [
+    [
+      "jrxrpdcxd",
+      "Source code",
+      "Pa.json"
+    ],
+    [
+      "ltnihmedlhocbq",
+      "jrxrpdcxd",
+      "Source code",
+      "Pa.json"
+    ],
+    [
+      "ryqsmeytremjrdbpxl",
+      "ltnihmedlhocbq",
+      "jrxrpdcxd",
+      "Source code",
+      "Pa.json"
+    ],
+    [
+      "pworotsvjdlioho",
+      "ryqsmeytremjrdbpxl",
+      "ltnihmedlhocbq",
+      "jrxrpdcxd",
+      "Source code",
+      "Pa.json"
+    ]
+  ],
+  "codeData": {
+    "comments": [
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.ncec.myvbo"
+        },
+        "comment": "This is the Main Activity",
+        "style": "LINE"
+      }
+    ],
+    "renames": [
+      {
+        "nodeRef": {
+          "refType": "CLASS",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.ncec.myvbo"
+        },
+        "newName": "myvbo"
+      },
+      {
+        "nodeRef": {
+          "refType": "FIELD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.wahiuolww",
+          "shortId": "c:Ljava/lang/String;"
+        },
+        "newName": "xxxx"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "a()Z"
+        },
+        "newName": "mw_returns_false"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "a(Landroid/content/Context;)V"
+        },
+        "newName": "mw_loadAPK_dynamically"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "a(Landroid/content/Context;Ljava/lang/Class;)Z"
+        },
+        "newName": "mw_check_service_isRunning"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "a(Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "newName": "mw_deadCode1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "b(Landroid/content/Context;)V"
+        },
+        "newName": "initialiazationFn"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "b(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "cryptoImplementation2"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "c(Landroid/content/Context;)V"
+        },
+        "newName": "installedApplications"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "c(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V"
+        },
+        "newName": "sendSMSFn"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "c(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "cryptoImplementation1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "e(Landroid/content/Context;)Z"
+        },
+        "newName": "mw_checks_permission_isGranted"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "e(Landroid/content/Context;Ljava/lang/String;)Ljava/lang/String;"
+        },
+        "newName": "mw_read_sharedPref1"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.b",
+          "shortId": "q(Landroid/content/Context;)Ljava/lang/String;"
+        },
+        "newName": "getDeviceDetails"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.oyqwzkyy.a",
+          "shortId": "b([B)[B"
+        },
+        "newName": "bbb"
+      },
+      {
+        "nodeRef": {
+          "refType": "METHOD",
+          "declClass": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.oyqwzkyy.a",
+          "shortId": "c([B)[I"
+        },
+        "newName": "ccc"
+      }
+    ]
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "jrxrpdcxd.ltnihmedlhocbq.ryqsmeytremjrdbpxl.ncec.myvbo",
+      "subPath": "java",
+      "caret": 605,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": true
+    }
+  ],
+  "enableLiveReload": false,
+  "searchHistory": [
+    "myv",
+    "spamSMS",
+    "spam",
+    "nymBePsG0",
+    "twitter",
+    "onSensor",
+    "vnc",
+    "eric",
+    "egxltnv",
+    "clear",
+    "StringActivate",
+    ".jpg",
+    "at.spard",
+    "/fafa.php",
+    "|replaceurl\u003d",
+    "|ussd\u003d",
+    "startAutoPush",
+    "startscreenVNC",
+    "|recordsound\u003d",
+    "hypihteeavv",
+    "\u003cbitcoin",
+    "crypto",
+    ":NETWORK:",
+    "\u003dPUSH|",
+    "startrat",
+    "twitt",
+    "/o",
+    "Incoming",
+    "Accessibility",
+    " ukhakhcgifofl"
+  ],
+  "pluginOptions": {}
+}
